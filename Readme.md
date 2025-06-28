@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="thumbnail.png" alt="Global Inflation Analysis Cover" width="100%">
+</p>
 
 
 ---
